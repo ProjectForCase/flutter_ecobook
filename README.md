@@ -109,23 +109,6 @@ zodiac
 
 ---
 
-# Screenshot
-
-可在此加入專案截圖：
-
-```markdown
-![preview](assets/screenshot.png)
-```
-
----
-
-# 作者
-
-- Name: 林維祥 (ZOT)
-- GitHub: Zot012
-
----
-
 # License
 
 本專案僅供學習用途。
